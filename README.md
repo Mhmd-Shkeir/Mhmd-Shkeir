@@ -3,25 +3,50 @@
 ### Software Engineer | Full-Stack Developer | AI • IoT • Mobile • XR
 
 📍 Beirut, Lebanon  
+🎓 Computer & Communications Engineering (Software Engineering & Networks)  
 💼 Open to Internship, Junior Software Engineer, and Remote Opportunities
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer and Communications Engineering student specializing in **Software Engineering & Networks** with experience building full-stack web applications, mobile apps, AI-powered systems, IoT platforms, and XR/AR solutions.
+I'm a Computer and Communications Engineering student specializing in Software Engineering with hands-on experience building full-stack web applications, mobile apps, AI-powered systems, IoT platforms, backend services, and XR/AR applications.
 
-Through internships and personal projects, I've worked with modern technologies including **React, Node.js, Flutter, FastAPI, .NET, Laravel, Unity, MongoDB, and MySQL**. I enjoy solving real-world problems by designing scalable backend systems, intuitive user interfaces, and intelligent software solutions.
+Through internships and personal projects, I've worked with modern technologies including React, Node.js, Flutter, FastAPI, ASP.NET, Laravel, Unity, MongoDB, MySQL, and Raspberry Pi. I enjoy solving real-world problems by designing scalable systems, building intuitive user interfaces, and integrating intelligent technologies into practical applications.
 
-I'm passionate about continuous learning and always exploring new technologies in software engineering, artificial intelligence, cloud computing, and system design.
+I'm passionate about continuous learning and always looking for opportunities to improve my software engineering, system design, and AI development skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Professional Experience
 
-### 💻 Programming Languages
+### AI & XR/AR Intern — Auvia
 
-- JavaScript (ES6+)
+- Developed AI-powered AR/XR applications using Unity.
+- Implemented object tracking, gesture recognition, and real-time optimization.
+- Contributed to robotics and workout detection projects.
+
+### Software Development Intern — Vanrise
+
+- Supported frontend and backend development.
+- Integrated and tested REST APIs.
+- Improved application reliability and database performance.
+
+### Full-Stack Development Intern (Team Leader) — Ogero
+
+- Led development of a full-stack Admin Console.
+- Built React.js frontend and Node.js backend.
+- Implemented JWT authentication and Role-Based Access Control.
+- Integrated SQL databases and REST APIs.
+- Collaborated within an Agile development team.
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+- JavaScript
 - Python
 - Java
 - C#
@@ -29,30 +54,29 @@ I'm passionate about continuous learning and always exploring new technologies i
 - Dart
 - SQL
 
-### 🌐 Frontend
+## Frontend
 
 - React.js
 - HTML5
 - CSS3
 - Flutter
 
-### ⚙️ Backend
+## Backend
 
 - Node.js
 - Express.js
 - FastAPI
-- ASP.NET (.NET)
+- ASP.NET
 - Laravel
 - REST APIs
 - JWT Authentication
 
-### 🗄️ Databases
+## Databases
 
 - MongoDB
 - MySQL
-- SQL
 
-### 🤖 AI & Computer Vision
+## AI & Computer Vision
 
 - OpenCV
 - NumPy
@@ -60,7 +84,7 @@ I'm passionate about continuous learning and always exploring new technologies i
 - Object Detection
 - Autoencoders
 
-### 📱 Mobile, XR & IoT
+## Mobile, XR & IoT
 
 - Flutter
 - Unity
@@ -70,84 +94,111 @@ I'm passionate about continuous learning and always exploring new technologies i
 - MQTT
 - RFID
 
-### 🛠️ Tools
+## Tools
 
 - Git & GitHub
-- VS Code
 - Postman
 - Linux
+- VS Code
 
 ---
 
-## 💼 Professional Experience
+# ⭐ Featured Projects
 
-### AI & XR/AR Intern — Auvia
+## 🏫 Smart University IoT Platform
 
-- Developed AI-powered AR/XR applications using Unity.
-- Implemented object tracking, gesture recognition, and real-time performance optimization.
-- Contributed to robotics and workout detection solutions.
+Flutter • FastAPI • MongoDB • Raspberry Pi • MQTT • RFID
 
-### Software Development Intern — Vanrise
-
-- Supported frontend and backend development.
-- Integrated and tested REST APIs.
-- Improved database performance and application reliability.
-
-### Full-Stack Development Intern (Team Leader) — Ogero
-
-- Led development of a full-stack Admin Console.
-- Built React.js frontend and Node.js backend.
-- Implemented JWT authentication and Role-Based Access Control (RBAC).
-- Integrated SQL databases and REST APIs.
-- Collaborated within an Agile development team.
+Built a full-stack smart university platform featuring real-time IoT dashboards, RFID attendance, live sensor monitoring, and REST API integration.
 
 ---
 
-## 📌 Featured Projects
+## 🖥️ Admin Console
 
-### 🏫 Smart University IoT Platform
+React.js • Node.js • SQL • JWT • RBAC
 
-A full-stack Flutter application powered by FastAPI, MongoDB, Raspberry Pi, MQTT, and RFID, featuring real-time IoT dashboards, sensor monitoring, and attendance management.
-
-### 🤖 AI & Computer Vision Projects
-
-Developed AI-powered applications including object tracking, multi-target AR, gesture recognition, workout detection, and anomaly detection using Python and Unity.
-
-### 👟 Sneaker Detection Platform
-
-A full-stack AI web application that classifies sneakers using a custom-trained deep learning model with Flask, MongoDB, and REST APIs.
-
-### 🔍 Search Engine
-
-Built a semantic document retrieval system using Java and MongoDB with indexing and efficient search capabilities.
-
-### 🚗 Garage Management System
-
-Desktop application developed with JavaFX and SQL for managing vehicles, customers, and maintenance records.
+Developed a full-stack administrative dashboard with secure authentication, role-based access control, REST APIs, and SQL database integration.
 
 ---
 
-## 🌱 Currently Learning
+## 👟 Sneaker Detection Platform
 
-- Advanced React & Frontend Architecture
+Python • Flask • MongoDB
+
+Collaborated on a full-stack AI web application that classifies sneakers using a custom-trained deep learning model with REST APIs and MongoDB.
+
+---
+
+## 🤖 AI & Computer Vision Projects
+
+Python • Unity • Flask
+
+Developed multiple AI-powered applications including:
+
+- Multi-target AR
+- Object Tracking
+- Gesture Recognition
+- Workout Detection
+- Autoencoder-based Anomaly Detection
+
+---
+
+## 🔎 Search Engine
+
+Java • MongoDB
+
+Implemented a semantic document retrieval system supporting indexing, ranking, and efficient search over large document collections.
+
+---
+
+## 🚗 Garage Management System
+
+Java • JavaFX • SQL
+
+Built a desktop application for managing vehicles, maintenance history, garage operations, and customer records.
+
+---
+
+## 💳 Money Transfer System
+
+Laravel • PHP • MySQL
+
+Developed a secure money transfer application implementing authentication, database integration, and transaction workflows.
+
+---
+
+# 📚 Additional Projects
+
+- PsyConnect (.NET)
+- Banking Management System (C++)
+- Backend Management System (Laravel)
+- Tic-Tac-Toe vs AI
+- Multimedia Projects
+- Autoencoder Object Detector
+- Laravel Mini Projects
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React
 - System Design
 - Cloud Computing
-- DevOps Fundamentals
-- AI-assisted Software Development
+- Software Architecture
+- AI-assisted Development
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email: **mhmd2004shkeir@gmail.com**
+📧 **Email:** mhmd2004shkeir@gmail.com
 
-💼 LinkedIn: **linkedin.com/in/mohammad-shkeir**
+💼 **LinkedIn:** linkedin.com/in/mohammad-shkeir
 
-💻 GitHub: **github.com/Mhmd-Shkeir**
+💻 **GitHub:** github.com/Mhmd-Shkeir
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-To build scalable software products that combine modern web technologies, artificial intelligence, and intelligent systems while growing as a Full-Stack Software Engineer and contributing to impactful real-world solutions.
-
+To grow as a Software Engineer by building scalable web, mobile, AI, and IoT solutions while continuously improving my system design, backend architecture, and software engineering skills.
