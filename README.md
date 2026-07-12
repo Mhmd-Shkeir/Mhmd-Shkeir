@@ -1,4 +1,4 @@
-#👋 Mohammad Ali Shkeir
+# 👋 Mohammad Ali Shkeir
 
 Frontend / Full-Stack Developer (React • Node.js • JavaScript • SQL)
 Beirut, Lebanon | Open to Remote Opportunities
