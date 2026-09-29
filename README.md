@@ -195,9 +195,9 @@ Developed a secure money transfer application implementing authentication, datab
 
 📧 **Email:** mhmd2004shkeir@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/mohammad-shkeir
+💼 **LinkedIn:** https://linkedin.com/in/mohammad-shkeir
 
-💻 **GitHub:** github.com/Mhmd-Shkeir
+💻 **GitHub:** https://github.com/Mhmd-Shkeir
 
 ---
 
